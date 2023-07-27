@@ -1,0 +1,2 @@
+user: Administrador
+pass: 0000
