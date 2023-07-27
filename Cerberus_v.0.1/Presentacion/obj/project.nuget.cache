@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c84uHB7JEJY0PTeTvxgsX247PtEQ8w8vYhWL5CUR6t/AZ5JTO65u0AQH1VxBvKrAY2Nh4SMimd1FSRcHKMgCRw==",
+  "dgSpecHash": "cmz7sqIhLWtNWCdxCVB85RiuInD1k+jf2EmGh97f2by18yea0BrJXCKaDvceTbKo0H7yQWaoxwK5zhHwCiDdvw==",
   "success": true,
-  "projectFilePath": "D:\\Cerberus_v.0.1\\Presentacion\\Presentacion.csproj",
+  "projectFilePath": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Presentacion\\Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bigos\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\bigos\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

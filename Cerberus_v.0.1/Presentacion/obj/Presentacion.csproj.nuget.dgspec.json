@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cerberus_v.0.1\\Presentacion\\Presentacion.csproj": {}
+    "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Presentacion\\Presentacion.csproj": {}
   },
   "projects": {
-    "D:\\Cerberus_v.0.1\\Control\\Control.csproj": {
+    "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Control\\Control.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Cerberus_v.0.1\\Control\\Control.csproj",
+        "projectUniqueName": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Control\\Control.csproj",
         "projectName": "Control",
-        "projectPath": "D:\\Cerberus_v.0.1\\Control\\Control.csproj",
+        "projectPath": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Control\\Control.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,16 +19,16 @@
         "net472": {}
       }
     },
-    "D:\\Cerberus_v.0.1\\Datos\\Datos.csproj": {
+    "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Datos\\Datos.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Cerberus_v.0.1\\Datos\\Datos.csproj",
+        "projectUniqueName": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "D:\\Cerberus_v.0.1\\Datos\\Datos.csproj",
+        "projectPath": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Datos\\Datos.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "D:\\Cerberus_v.0.1\\Control\\Control.csproj": {
-                "projectPath": "D:\\Cerberus_v.0.1\\Control\\Control.csproj"
+              "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Control\\Control.csproj": {
+                "projectPath": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Control\\Control.csproj"
               }
             }
           }
@@ -38,19 +38,19 @@
         "net472": {}
       }
     },
-    "D:\\Cerberus_v.0.1\\Negocio\\Negocio.csproj": {
+    "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Negocio\\Negocio.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Cerberus_v.0.1\\Negocio\\Negocio.csproj",
+        "projectUniqueName": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Negocio\\Negocio.csproj",
         "projectName": "Negocio",
-        "projectPath": "D:\\Cerberus_v.0.1\\Negocio\\Negocio.csproj",
+        "projectPath": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Negocio\\Negocio.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "D:\\Cerberus_v.0.1\\Control\\Control.csproj": {
-                "projectPath": "D:\\Cerberus_v.0.1\\Control\\Control.csproj"
+              "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Control\\Control.csproj": {
+                "projectPath": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Control\\Control.csproj"
               },
-              "D:\\Cerberus_v.0.1\\Datos\\Datos.csproj": {
-                "projectPath": "D:\\Cerberus_v.0.1\\Datos\\Datos.csproj"
+              "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Datos\\Datos.csproj": {
+                "projectPath": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Datos\\Datos.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         "net472": {}
       }
     },
-    "D:\\Cerberus_v.0.1\\Presentacion\\Presentacion.csproj": {
+    "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Presentacion\\Presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cerberus_v.0.1\\Presentacion\\Presentacion.csproj",
+        "projectUniqueName": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Presentacion\\Presentacion.csproj",
         "projectName": "Presentacion",
-        "projectPath": "D:\\Cerberus_v.0.1\\Presentacion\\Presentacion.csproj",
+        "projectPath": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Presentacion\\Presentacion.csproj",
         "packagesPath": "C:\\Users\\bigos\\.nuget\\packages\\",
-        "outputPath": "D:\\Cerberus_v.0.1\\Presentacion\\obj\\",
+        "outputPath": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Presentacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bigos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,11 +84,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\Cerberus_v.0.1\\Control\\Control.csproj": {
-                "projectPath": "D:\\Cerberus_v.0.1\\Control\\Control.csproj"
+              "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Control\\Control.csproj": {
+                "projectPath": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Control\\Control.csproj"
               },
-              "D:\\Cerberus_v.0.1\\Negocio\\Negocio.csproj": {
-                "projectPath": "D:\\Cerberus_v.0.1\\Negocio\\Negocio.csproj"
+              "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Negocio\\Negocio.csproj": {
+                "projectPath": "D:\\Cerberus_v0.1\\Cerberus_v.0.1\\Negocio\\Negocio.csproj"
               }
             }
           }
