@@ -1,0 +1,25 @@
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Cerberus System.exe
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Cerberus System.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Cerberus System.deps.json
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Cerberus System.runtimeconfig.json
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Cerberus System.pdb
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Google.Protobuf.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\K4os.Compression.LZ4.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\K4os.Compression.LZ4.Streams.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\K4os.Hash.xxHash.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\MySql.Data.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\BouncyCastle.Crypto.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\System.Data.SqlClient.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\System.Diagnostics.DiagnosticSource.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\System.IO.Pipelines.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\System.Text.Encodings.Web.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\System.Text.Json.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\ZstdSharp.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\sni.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Control.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Datos.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Negocio.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Control.pdb
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Negocio.pdb
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\app.publish\Datos.pdb

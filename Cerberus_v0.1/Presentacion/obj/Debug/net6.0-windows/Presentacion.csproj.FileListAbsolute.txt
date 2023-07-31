@@ -1,0 +1,136 @@
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.AssemblyReference.cache
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Inicio.Frm_inicio.resources
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Inicio.Frm_login.resources
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Properties.Resources.resources
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.GenerateResource.cache
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfoInputs.cache
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfo.cs
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Presentacion.exe
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Presentacion.deps.json
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Presentacion.runtimeconfig.json
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Presentacion.dll
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Presentacion.pdb
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Control.dll
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Control.pdb
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CopyComplete
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.dll
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\refint\Presentacion.dll
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.pdb
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.genruntimeconfig.cache
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\ref\Presentacion.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Presentacion.exe
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Presentacion.deps.json
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Presentacion.runtimeconfig.json
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Presentacion.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Presentacion.pdb
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Control.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Datos.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Negocio.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Control.pdb
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Negocio.pdb
+D:\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Datos.pdb
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.AssemblyReference.cache
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Administrador.frm_administrador.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Administrador.frm_home.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Administrador.frm_personal.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Inicio.Frm_inicio.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Inicio.Frm_login.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Properties.Resources.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.GenerateResource.cache
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfoInputs.cache
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfo.cs
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CopyComplete
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.dll
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\refint\Presentacion.dll
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.pdb
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.genruntimeconfig.cache
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\ref\Presentacion.dll
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Usuario.Frm_usuario.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Administrador.Frm_Rusuario.resources
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Cerberus System.exe
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Cerberus System.deps.json
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Cerberus System.runtimeconfig.json
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Cerberus System.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Cerberus System.pdb
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Control.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Datos.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Negocio.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Control.pdb
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Negocio.pdb
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\bin\Debug\net6.0-windows\Datos.pdb
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.AssemblyReference.cache
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Administrador.frm_administrador.resources
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Administrador.frm_home.resources
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Administrador.frm_personal.resources
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Administrador.Frm_Rusuario.resources
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Inicio.Frm_inicio.resources
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Inicio.Frm_login.resources
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Mod_Usuario.Frm_usuario.resources
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.Properties.Resources.resources
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.GenerateResource.cache
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfoInputs.cache
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfo.cs
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CopyComplete
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Cerberus System.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\refint\Cerberus System.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Cerberus System.pdb
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\Presentacion.genruntimeconfig.cache
+D:\Carpeta Bryan\Cerberus_v.0.1\Presentacion\obj\Debug\net6.0-windows\ref\Cerberus System.dll

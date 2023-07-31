@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Cerberus_v.0.1\Presentacion\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Mod Administrador\frm_administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mod Administrador\frm_home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mod Administrador\frm_personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mod Administrador\Frm_Rusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mod Inicio\Frm_inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mod Inicio\Frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mod Usuario\Frm_usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

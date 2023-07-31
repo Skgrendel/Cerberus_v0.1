@@ -1,0 +1,49 @@
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Google.Protobuf.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\K4os.Compression.LZ4.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\K4os.Compression.LZ4.Streams.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\K4os.Hash.xxHash.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\MySql.Data.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\BouncyCastle.Crypto.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\System.Data.SqlClient.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\System.Diagnostics.DiagnosticSource.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\System.IO.Pipelines.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\System.Text.Encodings.Web.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\System.Text.Json.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\ZstdSharp.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\sni.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Control.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Datos.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Negocio.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Control.pdb
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Negocio.pdb
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Datos.pdb
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.csproj.AssemblyReference.cache
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.Mod_Administrador.frm_administrador.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.Mod_Administrador.frm_home.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.Mod_Administrador.frm_personal.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.Mod_Administrador.Frm_Rusuario.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.Mod_Inicio.Frm_inicio.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.Mod_Inicio.Frm_login.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.Mod_Usuario.Frm_usuario.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.Properties.Resources.resources
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.csproj.GenerateResource.cache
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.AssemblyInfoInputs.cache
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.AssemblyInfo.cs
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.csproj.CoreCompileInputs.cache
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.genruntimeconfig.cache
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Presentacion.csproj.CopyComplete
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Cerberus System.deps.json
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Cerberus System.runtimeconfig.json
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Cerberus System.exe
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Cerberus System.dll.manifest
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Cerberus System.application
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Cerberus System.dll
+D:\Cerberus_v.0.1\Presentacion\bin\Release\net6.0-windows\win-x86\Cerberus System.pdb
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Cerberus System.dll.manifest
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Cerberus System.application
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Cerberus System.dll
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\refint\Cerberus System.dll
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\Cerberus System.pdb
+D:\Cerberus_v.0.1\Presentacion\obj\Release\net6.0-windows\win-x86\ref\Cerberus System.dll

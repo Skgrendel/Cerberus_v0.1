@@ -1,0 +1,93 @@
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Datos\bin\Debug\Datos.dll
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Datos\bin\Debug\Datos.pdb
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Datos\bin\Debug\Control.dll
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Datos\bin\Debug\Control.pdb
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Datos\obj\Debug\Datos.dll
+C:\Users\bigos\Desktop\Cerberus_v.0.1\Datos\obj\Debug\Datos.pdb
+D:\Cerberus_v.0.1\Datos\bin\Debug\Datos.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\Datos.pdb
+D:\Cerberus_v.0.1\Datos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\Control.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\Google.Protobuf.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\K4os.Compression.LZ4.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\K4os.Hash.xxHash.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\MySql.Data.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Buffers.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Data.SqlClient.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.IO.Pipelines.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Memory.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Numerics.Vectors.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\ZstdSharp.dll
+D:\Cerberus_v.0.1\Datos\bin\Debug\Control.pdb
+D:\Cerberus_v.0.1\Datos\bin\Debug\BouncyCastle.Crypto.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\Google.Protobuf.pdb
+D:\Cerberus_v.0.1\Datos\bin\Debug\Google.Protobuf.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\K4os.Compression.LZ4.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\K4os.Hash.xxHash.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\MySql.Data.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Buffers.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Data.SqlClient.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.IO.Pipelines.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Memory.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Numerics.Vectors.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cerberus_v.0.1\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Cerberus_v.0.1\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Cerberus_v.0.1\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Cerberus_v.0.1\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Cerberus_v.0.1\Datos\obj\Debug\Datos.dll
+D:\Cerberus_v.0.1\Datos\obj\Debug\Datos.pdb
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\Datos.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\Datos.pdb
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\Control.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\Google.Protobuf.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\K4os.Compression.LZ4.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\K4os.Hash.xxHash.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\MySql.Data.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Buffers.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Data.SqlClient.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.IO.Pipelines.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Memory.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Numerics.Vectors.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\ZstdSharp.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\Control.pdb
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\BouncyCastle.Crypto.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\Google.Protobuf.pdb
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\Google.Protobuf.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\K4os.Compression.LZ4.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\K4os.Hash.xxHash.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\MySql.Data.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Buffers.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Data.SqlClient.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.IO.Pipelines.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Memory.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Numerics.Vectors.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\obj\Debug\Datos.dll
+D:\Carpeta Bryan\Cerberus_v.0.1\Datos\obj\Debug\Datos.pdb
